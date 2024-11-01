@@ -1,0 +1,8 @@
+h1 { color:rgb(73, 27, 113)}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
